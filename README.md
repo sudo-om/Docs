@@ -7,7 +7,9 @@ Welcome to My React Project! This project is designed to showcase a dynamic and 
 
 Here are some screenshots of the project:
 
-![Screenshot 1](Screenshot 2025-02-14 at 4.13.36 PM.png)
+<p align="center">
+<img src="/Screenshot 2025-02-14 at 4.13.36 PM.png" alt="result" width="70%">
+</p>
 
 ## Getting Started
 
